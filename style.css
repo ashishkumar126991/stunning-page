@@ -1,0 +1,191 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+#Topbar
+{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    margin:10px;
+    align-item:center;
+}
+.Topbar-image
+{
+    width:300px;
+    height:120px;
+    margin-left:20px;
+}
+#Topbar-page-content
+{
+    margin-top:50px;
+    margin-right:30px;
+    padding:5px;
+}
+.Topbar-text
+{
+
+    font-size:20px;
+    padding:15px;
+    color:black;
+}
+span:hover
+{
+    background-color:darkslategrey;
+    width:100px;
+    height:30px;
+    cursor:pointer;
+    text-decoration:underline  blue;
+}
+#Topbar-button-content
+{
+margin-top:35px;
+margin-right:40px;
+}
+.Topbar-button
+{
+    text-align:center;
+    border-radius:25px;
+    width:200px;
+    height:60px;
+    box-shadow: 0 0 8px pink;
+    border:none;
+    color:#A389CC;
+    background-color:#FFD8DB;
+    cursor:pointer;
+}
+#main-section
+{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    margin:80px;
+}
+h1{
+    font-size:60px;
+}
+.dot
+{
+    
+    color:blue;
+    
+}
+p{
+    color:black;
+    line-height:-1px;
+    word-spacing:2px;
+    letter-spacing:0.5px;
+}
+#button-section
+{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    margin-top:40px;
+    align-content: center;
+}
+.arrow-up
+{
+    width:70px;
+    height:70px;
+    padding:0 0 0 5px;
+   
+}
+.arrow-down
+{
+    width:70px;
+    height:70px;
+    padding:0 5px 0 5px;
+}
+.new-account{
+    background-color:#5243C0;
+    color: #ffffff;
+    width: 200px;0px;
+    height:60px;
+    border-radius:25px;
+    border:none;
+    padding:0 5px 0 5px;
+    cursor:pointer;
+}
+#card-content
+{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-evenly;
+    margin-top:90px;
+    align-items:flex-start;
+}
+.card-design
+{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+    cursor:pointer;
+}
+.b1,.b2,.b3,.b4
+{
+    width: 20px;
+    height:10px;
+    border-radius:7px;
+    border:none;
+}
+.b1{
+    background-color:#FED7DA;
+}
+.b2{
+    background-color:#FD6534;
+    margin-left:30px;
+}
+.b3{
+    background-color:#9ED095;
+    margin-left:30px;
+}
+.b4{
+    background-color:#FFE4A0;
+    margin-left:30px;
+}
+.tick-sign1,.sec-tick-sign1
+{
+padding-right:15px;
+}
+.para1
+{
+    padding-right:38px;
+}
+.tick-sign2,.sec-tick-sign2
+{
+padding-right:15px;
+}
+.para2
+{
+    padding-right:15px;
+}
+.tick-sign3,.sec-tick-sign3
+{
+padding-right:15px;
+}
+.para3
+{
+    padding-right:55px;
+}
+.tick-sign4,.sec-tick-sign4
+{
+padding-right:15px;
+}
+.para4
+{
+    padding-right: 72px;
+}
+
+.sec-tick-sign1
+{
+padding-right:15px;
+}
+.sec-para1
+{
+    padding-right:30px;
+}
+.landing-image
+{
+width:700px;
+height:600px;
+padding:50px;
+}
